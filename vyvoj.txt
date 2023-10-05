@@ -1,3 +1,4 @@
 novy commit
 Master super nova feature
 Nova feature
+Lokalni commit
