@@ -1,2 +1,3 @@
 Nejaky soubor
 Druhy radek
+Treti commit
